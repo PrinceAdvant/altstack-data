@@ -77416,5 +77416,70 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-25T12:00:32.377Z"
+  },
+  "npwitk/macintosh-skeletal-filled": {
+    "first_seen": "2026-10-11T17:32:48.149Z",
+    "last_seen": "2026-10-11T17:32:48.149Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T17:32:48.138Z"
+  },
+  "chaffed/openclear": {
+    "first_seen": "2026-10-11T17:32:49.213Z",
+    "last_seen": "2026-10-11T17:32:49.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T17:32:49.213Z"
+  },
+  "ggirelli/quaesito": {
+    "first_seen": "2026-10-11T17:32:49.570Z",
+    "last_seen": "2026-10-11T17:32:49.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-25T17:32:49.570Z"
+  },
+  "iliammanolov/safari-animated-webp-extension": {
+    "first_seen": "2026-10-11T17:32:49.933Z",
+    "last_seen": "2026-10-11T17:32:49.933Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-25T17:32:49.933Z"
+  },
+  "termphin/termphin": {
+    "first_seen": "2026-10-11T17:32:50.316Z",
+    "last_seen": "2026-10-11T17:32:50.316Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-25T17:32:50.316Z"
+  },
+  "raven-clown/tack": {
+    "first_seen": "2026-10-11T17:32:50.664Z",
+    "last_seen": "2026-10-11T17:32:50.664Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T17:32:50.664Z"
   }
 }
