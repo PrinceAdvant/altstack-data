@@ -77228,5 +77228,139 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-24T21:04:07.193Z"
+  },
+  "rociiu/talorys": {
+    "first_seen": "2026-10-11T03:33:34.678Z",
+    "last_seen": "2026-10-11T03:33:34.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:34.655Z"
+  },
+  "c22dev/muguet": {
+    "first_seen": "2026-10-11T03:33:35.278Z",
+    "last_seen": "2026-10-11T03:33:35.278Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:35.278Z"
+  },
+  "crystalrankdestroy/fps-booster-for-windows": {
+    "first_seen": "2026-10-11T03:33:35.856Z",
+    "last_seen": "2026-10-11T03:33:35.856Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:35.856Z"
+  },
+  "haircloboutique/cubase": {
+    "first_seen": "2026-10-11T03:33:36.422Z",
+    "last_seen": "2026-10-11T03:33:36.422Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:36.422Z"
+  },
+  "chartfitzturn/rx-11-audio-editor": {
+    "first_seen": "2026-10-11T03:33:36.987Z",
+    "last_seen": "2026-10-11T03:33:36.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:36.987Z"
+  },
+  "mrzh7/scam-with-your-friends-web": {
+    "first_seen": "2026-10-11T03:33:37.532Z",
+    "last_seen": "2026-10-11T03:33:37.532Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:37.532Z"
+  },
+  "academa-labs/manimgx": {
+    "first_seen": "2026-10-11T03:33:38.094Z",
+    "last_seen": "2026-10-11T03:33:38.094Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:38.094Z"
+  },
+  "jaronilan/stories": {
+    "first_seen": "2026-10-11T03:33:38.403Z",
+    "last_seen": "2026-10-11T03:33:38.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-10-25T03:33:38.403Z"
+  },
+  "boredpolymath/truth-beacon": {
+    "first_seen": "2026-10-11T03:33:38.696Z",
+    "last_seen": "2026-10-11T03:33:38.696Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-25T03:33:38.696Z"
+  },
+  "jorensix/dewey": {
+    "first_seen": "2026-10-11T03:33:39.050Z",
+    "last_seen": "2026-10-11T03:33:39.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T03:33:39.050Z"
+  },
+  "corbenicai/galahad": {
+    "first_seen": "2026-10-11T03:33:39.603Z",
+    "last_seen": "2026-10-11T03:33:39.603Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:39.603Z"
+  },
+  "steveking-gh/black-hole-lab": {
+    "first_seen": "2026-10-11T03:33:39.939Z",
+    "last_seen": "2026-10-11T03:33:39.939Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T03:33:39.939Z"
+  },
+  "hiroaqii/gitframe": {
+    "first_seen": "2026-10-11T03:33:40.510Z",
+    "last_seen": "2026-10-11T03:33:40.510Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T03:33:40.510Z"
   }
 }
