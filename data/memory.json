@@ -77362,5 +77362,59 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-10-18T03:33:40.510Z"
+  },
+  "mrsarac/ff-tracking": {
+    "first_seen": "2026-10-11T12:00:30.061Z",
+    "last_seen": "2026-10-11T12:00:30.061Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-18T12:00:30.038Z"
+  },
+  "bex-robotics/rezoom": {
+    "first_seen": "2026-10-11T12:00:31.222Z",
+    "last_seen": "2026-10-11T12:00:31.222Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T12:00:31.222Z"
+  },
+  "rahimnathwani/mailbox-viewer": {
+    "first_seen": "2026-10-11T12:00:31.611Z",
+    "last_seen": "2026-10-11T12:00:31.611Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T12:00:31.611Z"
+  },
+  "bubbleparticles/planar.jl": {
+    "first_seen": "2026-10-11T12:00:32.029Z",
+    "last_seen": "2026-10-11T12:00:32.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-10-25T12:00:32.029Z"
+  },
+  "skillkeel/skillkeel-starter": {
+    "first_seen": "2026-10-11T12:00:32.377Z",
+    "last_seen": "2026-10-11T12:00:32.377Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T12:00:32.377Z"
   }
 }
