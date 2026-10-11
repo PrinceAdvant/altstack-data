@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-10-04T20:48:33.703Z",
-    "times_seen": 14,
+    "last_seen": "2026-10-11T21:24:45.197Z",
+    "times_seen": 15,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-10-11T20:48:33.685Z"
+    "cooldown_until": "2026-10-18T21:24:45.176Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -77481,5 +77481,82 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-25T17:32:50.664Z"
+  },
+  "chaosmanage/harmonova": {
+    "first_seen": "2026-10-11T21:24:46.191Z",
+    "last_seen": "2026-10-11T21:24:46.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-25T21:24:46.191Z"
+  },
+  "franciscocarloserra/p2p-call": {
+    "first_seen": "2026-10-11T21:24:46.520Z",
+    "last_seen": "2026-10-11T21:24:46.520Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-25T21:24:46.520Z"
+  },
+  "techxcelerate/browser-mini": {
+    "first_seen": "2026-10-11T21:24:46.843Z",
+    "last_seen": "2026-10-11T21:24:46.843Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-25T21:24:46.843Z"
+  },
+  "kyle-pena-nlp/beelinebench": {
+    "first_seen": "2026-10-11T21:24:47.171Z",
+    "last_seen": "2026-10-11T21:24:47.171Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T21:24:47.171Z"
+  },
+  "grandimam/cpython": {
+    "first_seen": "2026-10-11T21:24:47.542Z",
+    "last_seen": "2026-10-11T21:24:47.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T21:24:47.542Z"
+  },
+  "dialohq/tailscale-database-gateway": {
+    "first_seen": "2026-10-11T21:24:47.900Z",
+    "last_seen": "2026-10-11T21:24:47.900Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-25T21:24:47.900Z"
+  },
+  "cigaleai/guilds": {
+    "first_seen": "2026-10-11T21:24:48.223Z",
+    "last_seen": "2026-10-11T21:24:48.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-25T21:24:48.223Z"
   }
 }
